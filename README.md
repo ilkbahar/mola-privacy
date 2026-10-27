@@ -61,6 +61,7 @@ Verilerinizi satmayız. Hizmeti sunmak için aşağıdaki işleyicileri kullanı
 
 * Supabase — veritabanı, kimlik doğrulama ve sunucu altyapısı (barındırma).
 * Google Firebase Cloud Messaging (FCM) — push bildirim iletimi.
+* Google Firebase Crashlytics — çökme raporları.
 * OpenStreetMap — harita karo (tile) görüntüleme.
 * E-posta gönderim altyapısı — doğrulama ve sıfırlama e-postaları.
 
