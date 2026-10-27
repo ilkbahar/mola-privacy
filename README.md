@@ -84,7 +84,7 @@ Bu izinleri işletim sistemi ayarlarından istediğiniz zaman geri alabilirsiniz
 
 KVKK ve GDPR kapsamında; verilerinize erişme, düzeltme, silinmesini isteme, işlemeyi kısıtlama ve rızanızı geri çekme haklarına sahipsiniz.
 
-**Hesap kapatma:** Uygulama içinde Profil / Ayarlar → Hesabı Sil ile hesabınızı kapatabilirsiniz. Bu işlem hesabınızı pasif hâle getirir ve oturumunuzu kapatır.
+**Hesap kapatma:** Uygulama içinde Profil / Ayarlar → Hesabı Sil ile hesabınızı kapatabilirsiniz.
 
 **Tam veri silme talebi:** Verilerinizin kalıcı olarak silinmesini istiyorsanız [info@triposltd.com](mailto:info@triposltd.com) adresine yazabilirsiniz; talebiniz mevzuata uygun sürede işleme alınır.
 
